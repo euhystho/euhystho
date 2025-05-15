@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on an Astro-based personal website!<br>🌱 I’m currently learning more about data analytics and Astro and Svelte.
 
-# 💻 Tech Stack:
+# 💻 Tech Stacks:
 
 ## 📊 Data Visualization (R Shiny):
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
