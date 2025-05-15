@@ -14,8 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euhystho&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=euhystho&theme=merko&hide_border=true)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=euhystho&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
