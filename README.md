@@ -1,43 +1,97 @@
-<h1 align="center">Hi 👋, I'm Eugene!</h1>
-<h3 align="center">A passionate data analyst and visualizer! 👨🏻‍🎨</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,16,18&height=200&section=header&text=Hi%20👋🏻%20I'm%20Eugene!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</div>
 
-# 💫 About Me:
-🔭 I’m currently working on an Astro-based personal website!<br>🌱 I’m currently learning more about data analytics and Astro and Svelte.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=25&duration=3000&color=335C3B&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Data+nerd+by+day%2C;amateur+web+magician+by+night" alt="Professional data detective by day, amateur web magician by night... 🪄" />
+</div>
 
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-  
+[![GitHub followers](https://img.shields.io/github/followers/euhystho?style=for-the-badge&color=B3C2C1&labelColor=335C3B&logo=github)](https://github.com/euhystho)
+[![GitHub Stars](https://img.shields.io/github/stars/euhystho?style=for-the-badge&color=B3C2C1&labelColor=FFC71F&logo=star)](https://github.com/euhystho)
+
 </div>
 
-# 💻 Tech Stacks:
+---
 
-## 📊 Data Visualization (R Shiny):
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"/>
 
+## 💫 About Me
 
-## 👨🏻‍💻 <a href="https://github.com/euhystho/euhystho.github.io">Personal Website</a>:
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
+```javascript
+const eugene = {
+    currentFocus: "Building an Astro-powered personal website",
+    learning: ["Data Analytics", "Astro", "Svelte"],
+    passion: "Turning data into awesome looking visualizations"
+};
+```
 
+🔭 **Currently Working On:** An Astro-based personal website that's going to be amazing!  
+🌱 **Learning Journey:** Deep diving into <a href="https://www.datacamp.com">data analytics</a>, Astro, and Svelte  
+💡 **Philosophy:** *"Data is the new oil, but visualization is the refinery"*  
+🎯 **Goal:** Making data accessible and beautiful for everyone  
+⚡ **Fun fact:** I debug code like I solve mysteries - methodically and with lots of coffee! ☕
 
-## 🎶🏃‍♂️<a href="https://github.com/euhystho/rhythm-run">RhythmRun</a>:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+<br clear="right"/>
 
+---
 
-## 🐻💰 <a href="https://github.com/euhystho/finlit_ggtw">Grizzly Guide to Wealth</a>:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+## 🎯 Case Files (Featured Projects)
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=euhystho&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<table>
+<tr>
+<td width="50%" style="border: 2px solid #335C3B; border-radius: 8px; padding: 10px;">
+
+### 👨🏻‍💻 [Personal Website](https://github.com/euhystho/euhystho.github.io)
+*Modern Astro-powered digital portfolio*
+
+![Astro](https://img.shields.io/badge/astro-335C3B.svg?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/react-4C2719.svg?style=flat-square&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-708090.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Status:** 🚧 *Under Development*  
+**Info:** Responsive design, Dark mode, Lightning fast
+
+</td>
+<td width="50%" style="border: 2px solid #4C2719; border-radius: 8px; padding: 10px;">
+
+### 🎶 [RhythmRun](https://github.com/euhystho/rhythm-run)
+*Music-powered running app*
+
+![Flutter](https://img.shields.io/badge/Flutter-335C3B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-FFC71F?style=flat-square&logo=python&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-708090?style=flat-square&logo=supabase&logoColor=white)
+
+**Status:** ⚠️ *First Foray Into Web Development*  
+**Info:** Real-time sync, Custom playlists, Progress tracking
+
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 2px solid #FFC71F; border-radius: 8px; padding: 10px;">
+
+### 🐻💰 [Grizzly Guide to Wealth](https://github.com/euhystho/finlit_ggtw)
+*Demystifying the secrets of financial literacy*
+
+![Plotly](https://img.shields.io/badge/Plotly-335C3B.svg?style=flat-square&logo=plotly&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-FFC71F.svg?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-4C2719.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-708090.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Status:** 🎓 *Hosted on Ursinus College's Canvas Course*  
+**Info:** Interactive charts, Educational content, Real financial concepts
+
+</td>
+</tr>
+</table>
 
 </div>
 
+---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <sub>👨🏻‍💻 Built with ❤️ by Eugene</sub>
+</div>
