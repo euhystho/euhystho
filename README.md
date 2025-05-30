@@ -23,8 +23,9 @@
 </summary>
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="middle" width="45%">
 <br>
+  
 🔭 <strong>Currently Working On:</strong> An Astro-based portfolio website that's going to look awesome! 😎 <br> 
 
 🌱 <strong>Learning Journey:</strong> Deep diving into <a href="https://www.datacamp.com">data analytics</a>, <a href="https://astro.build">Astro</a>, and <a href="https://svelte.dev">Svelte</a><br>
@@ -35,11 +36,11 @@
 
 ⚡ <strong>Fun Fact:</strong> I have a few rabbits, and after long coding sessions, I'm that GIF! 🐰😴
 
-
+<br>
 </td>
-<td valign="top" width="50%">
+<td valign="middle" align="center">
 
-<img align="left" style="width: 100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNuZ2JqbDlycDBlMWExdTduNW5oajhvOGdwYXlodzZxdXFzbm93ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKeVGRQ8Uj7Da/giphy.gif" alt="Rabbit falling off a desk at work"/>
+<img style="width: 2000px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNuZ2JqbDlycDBlMWExdTduNW5oajhvOGdwYXlodzZxdXFzbm93ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKeVGRQ8Uj7Da/giphy.gif" alt="Rabbit falling off a desk at work"/>
 </td></tr></table>  
 
 </details>
