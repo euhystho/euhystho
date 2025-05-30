@@ -114,6 +114,7 @@ Interactive charts, Educational financial content, Monte Carlo simulations
 ## 👨🏻‍💻 Recent Activity
 
 </summary>
+
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#2](https://github.com/euhystho/euhystho.github.io/issues/2) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
 2. ❗ Opened issue [#22](https://github.com/euhystho/euhystho.github.io/issues/22) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
@@ -121,6 +122,7 @@ Interactive charts, Educational financial content, Monte Carlo simulations
 4. ❗ Opened issue [#20](https://github.com/euhystho/euhystho.github.io/issues/20) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
 5. ❗ Opened issue [#19](https://github.com/euhystho/euhystho.github.io/issues/19) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
 <!--END_SECTION:activity-->
+
 </details>
 
 <div align="center">
