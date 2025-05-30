@@ -23,17 +23,15 @@
   ## 💫 About Me
   
 </summary>
-<img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNuZ2JqbDlycDBlMWExdTduNW5oajhvOGdwYXlodzZxdXFzbm93ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKeVGRQ8Uj7Da/giphy.gif" alt="Rabbit falling off a desk at work"/>
-<br>
+<div align="left">
+  <img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNuZ2JqbDlycDBlMWExdTduNW5oajhvOGdwYXlodzZxdXFzbm93ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKeVGRQ8Uj7Da/giphy.gif" alt="Rabbit falling off a desk at work"/>
 🔭 <strong>Currently Working On:</strong> An Astro-based portfolio website that's going to look awesome! 😎 <br> 
 🌱 <strong>Learning Journey:</strong> Deep diving into <a href="https://www.datacamp.com">data analytics</a>, <a href="https://astro.build">Astro</a>, and <a href="https://svelte.dev">Svelte</a><br>
 💡 <strong>Philosophy:</strong> <em>"Data can be messy, but good visualizations bring it to life!"</em> <br>
 🎯 <strong>Goal:</strong> Making data accessible and beautiful for everyone! 🤩 <br>
 ⚡ <strong>Fun Fact:</strong> I have a few rabbits, and after long coding sessions, I'm that GIF! 🐰😴
+</div>
 
-
-
-<br clear="right"/>
 
 </details>
 
