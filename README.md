@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=40&duration=3000&color=777777&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=110&lines=Data+nerd+by+day%2C;amateur+web+magician+by+night...+%F0%9F%AA%84" alt="Professional data detective by day, amateur web magician by night... 🪄" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=40&duration=3000&color=777777&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=130&lines=Data+nerd+by+day%2C;amateur+web+magician+by+night...+%F0%9F%AA%84" alt="Professional data detective by day, amateur web magician by night... 🪄" /></a>
 </div>
 
 <div align="center">
@@ -32,9 +32,7 @@
 
 💡 <strong>Philosophy:</strong> <em>"Data can be messy, but good visualizations bring it to life!"</em> <br>
 
-🎯 <strong>Goal:</strong> Making data accessible and beautiful for everyone! 🤩 <br>
-
-⚡ <strong>Fun Fact:</strong> I have a few rabbits, and after long coding sessions, I'm that GIF! 🐰😴
+⚡ <strong>Fun Fact:</strong> After having a few rabbits as pets and after long coding sessions, I relate to that GIF! 🐰😴
 
 <br>
 </td>
@@ -109,7 +107,7 @@ Interactive charts, Educational financial content, Monte Carlo simulations
 
 ---
 
-<details>
+<details open>
 <summary>
 
 ## 👨🏻‍💻 Recent Activity
