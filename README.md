@@ -21,25 +21,27 @@
   ## 💫 About Me
   
 </summary>
-<table>
-<tr>
-<td valign="middle" width="45%">
-<br>
+
+
+
+<div align="center">
+<div align="left">
   
-🔭 <strong>Currently Working On:</strong> An Astro-based portfolio website that's going to look awesome! 😎 <br> 
+🔭 <strong>Currently Working On:</strong> An Astro-based portfolio website that's going to look awesome! 😎  <br/>
 
-🌱 <strong>Learning Journey:</strong> Deep diving into <a href="https://www.datacamp.com">data analytics</a>, <a href="https://astro.build">Astro</a>, and <a href="https://svelte.dev">Svelte</a><br>
+  
+🌱 <strong>Learning Journey:</strong> Deep diving into <a href="https://www.datacamp.com">data analytics</a>, <a href="https://astro.build">Astro</a>, and <a href="https://svelte.dev">Svelte</a><br/>
 
-💡 <strong>Philosophy:</strong> <em>"Data can be messy, but good visualizations bring it to life!"</em> <br>
+
+💡 <strong>Philosophy:</strong> <em>"Data can be messy, but good visualizations bring it to life!"</em><br/>
+
 
 ⚡ <strong>Fun Fact:</strong> After having a few rabbits as pets and after long coding sessions, I relate to that GIF! 🐰😴
 
-<br>
-</td>
-<td valign="middle" align="center">
-
-<img style="width: 2000px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNuZ2JqbDlycDBlMWExdTduNW5oajhvOGdwYXlodzZxdXFzbm93ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKeVGRQ8Uj7Da/giphy.gif" alt="Rabbit falling off a desk at work"/>
-</td></tr></table>  
+  
+</div>
+    <img style="width: 500px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNuZ2JqbDlycDBlMWExdTduNW5oajhvOGdwYXlodzZxdXFzbm93ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKeVGRQ8Uj7Da/giphy.gif" alt="Rabbit falling off a desk at work"/>
+</div>
 
 </details>
 
