@@ -117,11 +117,11 @@ Interactive charts, Educational financial content, Monte Carlo simulations
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23](https://github.com/euhystho/euhystho.github.io/issues/23) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
-2. 🔒 Closed issue [#1](https://github.com/euhystho/dash3dkdtree/issues/1) in [euhystho/dash3dkdtree](https://github.com/euhystho/dash3dkdtree)
-3. ❗ Opened issue [#1](https://github.com/euhystho/dash3dkdtree/issues/1) in [euhystho/dash3dkdtree](https://github.com/euhystho/dash3dkdtree)
-4. 🔒 Closed issue [#3](https://github.com/euhystho/euhystho.github.io/issues/3) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
-5. 🔒 Closed issue [#2](https://github.com/euhystho/euhystho.github.io/issues/2) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
+1. 🔒 Closed issue [#4](https://github.com/euhystho/euhystho.github.io/issues/4) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
+2. ❗ Opened issue [#31](https://github.com/euhystho/rhythm-run/issues/31) in [euhystho/rhythm-run](https://github.com/euhystho/rhythm-run)
+3. ❗ Opened issue [#8](https://github.com/euhystho/shinytesting/issues/8) in [euhystho/shinytesting](https://github.com/euhystho/shinytesting)
+4. ❗ Opened issue [#7](https://github.com/euhystho/shinytesting/issues/7) in [euhystho/shinytesting](https://github.com/euhystho/shinytesting)
+5. ❗ Opened issue [#6](https://github.com/euhystho/shinytesting/issues/6) in [euhystho/shinytesting](https://github.com/euhystho/shinytesting)
 <!--END_SECTION:activity-->
 
 </details>
