@@ -117,11 +117,11 @@ Interactive charts, Educational financial content, Monte Carlo simulations
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/euhystho/euhystho.github.io/issues/12) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
-2. 🎉 Merged PR [#30](https://github.com/euhystho/euhystho.github.io/pull/30) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
-3. 🔒 Closed issue [#5](https://github.com/euhystho/euhystho.github.io/issues/5) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
-4. 🔒 Closed issue [#4](https://github.com/euhystho/euhystho.github.io/issues/4) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
-5. ❗ Opened issue [#31](https://github.com/euhystho/rhythm-run/issues/31) in [euhystho/rhythm-run](https://github.com/euhystho/rhythm-run)
+1. 🔒 Closed issue [#7](https://github.com/euhystho/euhystho.github.io/issues/7) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
+2. 🔒 Closed issue [#12](https://github.com/euhystho/euhystho.github.io/issues/12) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
+3. 🎉 Merged PR [#30](https://github.com/euhystho/euhystho.github.io/pull/30) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
+4. 🔒 Closed issue [#5](https://github.com/euhystho/euhystho.github.io/issues/5) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
+5. 🔒 Closed issue [#4](https://github.com/euhystho/euhystho.github.io/issues/4) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
 <!--END_SECTION:activity-->
 
 </details>
