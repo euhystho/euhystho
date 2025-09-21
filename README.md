@@ -27,16 +27,16 @@
 <div align="center">
 <div align="left">
   
-🔭 <strong>Currently Working On:</strong> An Astro-based portfolio website that's going to look awesome! 😎  <br/>
+🔭 <strong>Currently Working On:</strong> An Astro-based portfolio website... <br/>
 
   
 🌱 <strong>Learning Journey:</strong> Deep diving into <a href="https://www.datacamp.com">data analytics</a>, <a href="https://astro.build">Astro</a>, and <a href="https://svelte.dev">Svelte</a><br/>
 
 
-💡 <strong>Philosophy:</strong> <em>"Data can be messy, but good visualizations bring it to life!"</em><br/>
+💡 <strong>Philosophy:</strong> <em>"Data can be messy, but making good visualizations bring it to life!"</em><br/>
 
 
-⚡ <strong>Fun Fact:</strong> After having a few rabbits as pets and after long coding sessions, I relate to that GIF! 🐰😴
+⚡ <strong>Fun Fact:</strong> Having a few rabbits as pets and after long coding sessions, I relate to that GIF! 🐰😴
 
   
 </div>
@@ -90,7 +90,7 @@ _Music-powered running app_
 
 ### 🐻💰 [Grizzly Guide to Wealth](https://github.com/euhystho/finlit_ggtw)
 
-_Demystifying the secrets of financial literacy_
+_Demystifying the complexities of financial literacy_
 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
