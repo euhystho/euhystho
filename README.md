@@ -117,9 +117,9 @@ Interactive charts, Educational financial content, Monte Carlo simulations
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/euhystho/euhystho.github.io/pull/56) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
-2. 🎉 Merged PR [#60](https://github.com/euhystho/euhystho.github.io/pull/60) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
-3. 🎉 Merged PR [#50](https://github.com/euhystho/euhystho.github.io/pull/50) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
+1. ❌ Closed PR [#74](https://github.com/euhystho/euhystho.github.io/pull/74) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
+2. ❌ Closed PR [#83](https://github.com/euhystho/euhystho.github.io/pull/83) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
+3. ❌ Closed PR [#84](https://github.com/euhystho/euhystho.github.io/pull/84) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
 4. 🎉 Merged PR [#48](https://github.com/euhystho/euhystho.github.io/pull/48) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
 5. 🎉 Merged PR [#49](https://github.com/euhystho/euhystho.github.io/pull/49) in [euhystho/euhystho.github.io](https://github.com/euhystho/euhystho.github.io)
 <!--END_SECTION:activity-->
