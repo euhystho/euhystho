@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=40&duration=3000&color=777777&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=130&lines=Data+nerd+by+day%2C;amateur+web+magician+by+night...+%F0%9F%AA%84" alt="Professional data detective by day, amateur web magician by night... 🪄" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=40&duration=3000&color=777777&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=130&lines=Data+nerd+by+day%2C;amateur+web+dev+by+night...+%F0%9F%AA%84" alt="Professional data detective by day, amateur web dev by night... 🪄" /></a>
 </div>
 
 <div align="center">
@@ -33,10 +33,10 @@
 🌱 <strong>Learning Journey:</strong> Deep diving into <a href="https://www.datacamp.com">data analytics</a>, <a href="https://astro.build">Astro</a>, and <a href="https://svelte.dev">Svelte</a><br/>
 
 
-💡 <strong>Philosophy:</strong> <em>"Data can be messy, but making good visualizations bring it to life!"</em><br/>
+💡 <strong>Favorite Thing About Data Sci:</strong> <em>"Data can be messy, but making good visualizations make it so much better..."</em><br/>
 
 
-⚡ <strong>Fun Fact:</strong> Having a few rabbits as pets and after long coding sessions, I relate to that GIF! 🐰😴
+⚡ <strong>Fun Fact:</strong> With all my rabbits as pets and after long coding sessions, I want to be like that bunny down there! 🐰😴
 
   
 </div>
@@ -67,7 +67,6 @@ _Modern Astro-powered digital portfolio_
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Status:** 🚧 _Under Development_  
-Responsive, Playful, Fast
 
 </td>
 <td width="50%" align="center">
